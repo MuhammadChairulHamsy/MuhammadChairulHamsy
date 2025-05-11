@@ -3,11 +3,6 @@
 ## 💫 About Me:
 #### Hi there 👋, I'm Muhammad Chairul Hamsy!<br>
 
-🎓 I'm a student from Binjai, passionate about **Web Development**.  
-💻 I mainly work with **JavaScript** and **React**, and I’m always exploring new tools and technologies.  
-🚀 Currently building my **portfolio** and learning from the **open-source** community.  
-🎮 When I’m not coding, you’ll probably find me playing games or exploring something fun online.
-
 Let’s connect and grow together!
 
 
