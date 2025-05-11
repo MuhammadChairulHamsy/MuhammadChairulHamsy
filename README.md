@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-![Muhammad Chairul Hamsy](./img/github-header-img.png)
+![Muhammad Chairul Hamsy](./img/github-header-img-2.png)
 
 ### 💫 About Me:
 #### Hello I'm Muhammad Chairul hamsy 👋<br>
