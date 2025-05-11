@@ -44,7 +44,3 @@ Let’s connect and grow together!
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MuhammadChairulHamsy/MuhammadChairulHamsy/output/snake.svg" alt="Snake animation" />
-
-###
