@@ -1,4 +1,4 @@
-![Muhammad Chairul Hamsy](./img/github-header-img-1.png)
+![Muhammad Chairul Hamsy](./img/github-header-banner.png)
 
 ## 💫 About Me:
 ### 👋 Hi, I'm Muhammad Chairul Hamsy
