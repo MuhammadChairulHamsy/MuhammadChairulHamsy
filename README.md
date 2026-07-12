@@ -21,7 +21,7 @@ Right now, I'm working on several personal projects to enhance my front-end deve
 - Build a strong portfolio that reflects my growth and creativity
 
 #### 🎮 Fun Facts About Me
-When I’m not in front of my code editor, I love spending time playing games—it's a great way to relax and also inspires me to one day create game-related web apps or tools. I also enjoy learning new tech and following modern trends in the development world.
+When I’m not in front of my code editor, I love spending time playing games it's a great way to relax and also inspires me to one day create game-related web apps or tools. I also enjoy learning new tech and following modern trends in the development world.
 
 Let’s connect and grow together!
 
